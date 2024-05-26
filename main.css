@@ -1,0 +1,53 @@
+span.caret {
+    position: absolute;
+    left: 90%;
+    top: 45%;
+}
+
+label {
+    padding-top:5px;
+}
+
+.form-label {
+    padding-left:0px !important;
+}
+
+img {
+    width:140px;
+    height:140px;
+}
+
+.btn-success {
+    background-color: #3b7d4a!important;
+}
+
+.btn-success:hover {
+    background-color: #4daf64!important;
+}
+
+img.track {
+    border: 1px solid #8a8a8a;
+}
+
+/* */
+#hidden_token {
+    background-color: aqua;
+}
+
+form {
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+a {
+    margin: 10px;
+    width: 40%!important;
+}
+
+.artist-list {
+    margin: 10px;
+    padding-bottom; 10px;
+}
+/**/
